@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Jhonatas!
+# Olá, eu sou Jhonatas!
 
 Sou estudante de **Gestão Financeira** e profissional da área administrativa, em busca constante de aprendizado e explorando a conexão entre **Finanças, Dados e Tecnologia**.
 
