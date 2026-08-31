@@ -1,40 +1,35 @@
 ### Olá, eu sou Jhonatas
 
-Profissional administrativo-financeiro com 6 anos de experiência em compras, orçamento e controladoria — hoje migrando essa base prática para a área de dados e tecnologia.
+Profissional administrativo-financeiro com 6 anos de experiência em gestão de compras, orçamento e controladoria — hoje aplicando esse conhecimento junto com Python, SQL e Power BI para transformar processos financeiros em soluções orientadas a dados.
 
-Ao longo da minha trajetória, liderei processos que geraram resultado real: por exemplo, uma reestruturação de compras que elevou a disponibilidade de itens críticos de 20% para 94%. Hoje aplico esse mesmo raciocínio — identificar o problema, estruturar o processo, medir o resultado — para construir soluções com **Python, SQL, Power BI e automação**.
+Liderei um projeto de reestruturação de estoque que elevou a disponibilidade de insumos críticos de 20% para 94%, e uso esse mesmo raciocínio — identificar o gargalo, medir, corrigir — nos projetos que construo aqui.
 
-Gosto de aprender fazendo. Uso este GitHub pra documentar essa evolução e transformar ideias em projetos reais, não só estudo.
+### O que estou buscando
 
-#### O que estou buscando
+Oportunidades júnior nas áreas de dados e finanças, onde eu possa unir experiência prática de gestão financeira com automação, análise de dados e engenharia de software.
 
-Oportunidades júnior em **dados e finanças** no mercado privado, onde eu possa unir gestão de processos financeiros com análise de dados e automação.
+### Tecnologias e ferramentas
 
-#### Tecnologias e ferramentas
+- Power BI
+- Python
+- SQL / PostgreSQL
+- Excel avançado
+- Automação
+- Git e GitHub
 
--  Power BI
--  Python
--  SQL · PostgreSQL
--  Excel avançado
--  Automação
--  Git e GitHub
-
-#### Projetos em destaque
+### Projetos
 
 **FinanceOS**
-Sistema próprio de gestão financeira multiempresa (ERP), com módulos de contas a pagar/receber, orçamento e fluxo de caixa — nascido da experiência prática em controladoria.
-`FastAPI` `PostgreSQL` `React` - Em desenvolvimento
+ERP financeiro multiempresa — contas a pagar/receber, orçamento, fluxo de caixa e centros de custo, construído do zero com FastAPI, PostgreSQL e React.
+Em desenvolvimento
 
-**Controle-Financeiro-Web**
-Conversão de uma planilha pessoal de controle financeiro em aplicação web.
+**Controle Financeiro Web**
+Aplicação web para controle financeiro pessoal, evoluída a partir de uma planilha própria.
 
-**Portfólio**
-Site pessoal reunindo experiência profissional e projetos: [jhonatasrodriss.github.io/Portfolio](https://jhonatasrodriss.github.io/Portfolio/)
+### Atualmente estudando
 
-#### Atualmente estudando
+Bancos de dados, automação e boas práticas de engenharia de software, para complementar a base que já tenho em análise financeira e orçamentária.
 
-Python · SQL e bancos de dados · Power BI · automação · Gestão Financeira (tecnólogo)
+### Contato
 
-#### Objetivo
-
-Construir uma trajetória sólida na interseção entre finanças e dados, transformando 6 anos de experiência prática em soluções técnicas que resolvem problemas reais.
+[Portfólio](https://jhonatasrodriss.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/jhonatas-rodrigues8111b0326)
