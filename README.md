@@ -12,18 +12,18 @@ Oportunidades júnior em **dados e finanças** no mercado privado, onde eu possa
 
 #### Tecnologias e ferramentas
 
-- 📊 Power BI
-- 🐍 Python
-- 🗄️ SQL · 🐘 PostgreSQL
-- 📑 Excel avançado
-- 🤖 Automação
-- 🌐 Git e GitHub
+-  Power BI
+-  Python
+-  SQL · 🐘 PostgreSQL
+-  Excel avançado
+-  Automação
+-  Git e GitHub
 
 #### Projetos em destaque
 
 **FinanceOS**
 Sistema próprio de gestão financeira multiempresa (ERP), com módulos de contas a pagar/receber, orçamento e fluxo de caixa — nascido da experiência prática em controladoria.
-`FastAPI` `PostgreSQL` `React` · 🚧 em desenvolvimento
+`FastAPI` `PostgreSQL` `React` ·  em desenvolvimento
 
 **Controle-Financeiro-Web**
 Conversão de uma planilha pessoal de controle financeiro em aplicação web.
