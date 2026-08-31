@@ -2,8 +2,6 @@
 
 Profissional administrativo-financeiro com 6 anos de experiência em gestão de compras, orçamento e controladoria — hoje aplicando esse conhecimento junto com Python, SQL e Power BI para transformar processos financeiros em soluções orientadas a dados.
 
-Liderei um projeto de reestruturação de estoque que elevou a disponibilidade de insumos críticos de 20% para 94%, e uso esse mesmo raciocínio — identificar o gargalo, medir, corrigir — nos projetos que construo aqui.
-
 ### O que estou buscando
 
 Oportunidades júnior nas áreas de dados e finanças, onde eu possa unir experiência prática de gestão financeira com automação, análise de dados e engenharia de software.
