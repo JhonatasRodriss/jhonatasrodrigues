@@ -14,7 +14,7 @@ Oportunidades júnior em **dados e finanças** no mercado privado, onde eu possa
 
 -  Power BI
 -  Python
--  SQL · 🐘 PostgreSQL
+-  SQL · PostgreSQL
 -  Excel avançado
 -  Automação
 -  Git e GitHub
