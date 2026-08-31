@@ -1,51 +1,40 @@
-# Olá, eu sou Jhonatas!
+### Olá, eu sou Jhonatas
 
-Sou estudante de **Gestão Financeira** e profissional da área administrativa, em busca constante de aprendizado e explorando a conexão entre **Finanças, Dados e Tecnologia**.
+Profissional administrativo-financeiro com 6 anos de experiência em compras, orçamento e controladoria — hoje migrando essa base prática para a área de dados e tecnologia.
 
-Minha trajetória começou na área financeira e administrativa, onde tive contato com planejamento, análise, processos, compras, gestão e tomada de decisões. Com o tempo, comecei a me interessar cada vez mais por tecnologia e pela capacidade que os dados têm de transformar problemas reais em soluções.
+Ao longo da minha trajetória, liderei processos que geraram resultado real: por exemplo, uma reestruturação de compras que elevou a disponibilidade de itens críticos de 20% para 94%. Hoje aplico esse mesmo raciocínio — identificar o problema, estruturar o processo, medir o resultado — para construir soluções com **Python, SQL, Power BI e automação**.
 
-Hoje, estou construindo minha jornada na área de tecnologia, estudando e praticando **SQL, Python, Power BI, PostgreSQL, bancos de dados, automação e Inteligência Artificial**.
+Gosto de aprender fazendo. Uso este GitHub pra documentar essa evolução e transformar ideias em projetos reais, não só estudo.
 
-Gosto principalmente de aprender **fazendo**. Por isso, uso este GitHub para documentar minha evolução, experimentar novas tecnologias e transformar ideias em projetos reais.
+#### O que estou buscando
 
-## 🚀 O que estou buscando
+Oportunidades júnior em **dados e finanças** no mercado privado, onde eu possa unir gestão de processos financeiros com análise de dados e automação.
 
-Construir soluções que conectem **Finanças + Dados + Tecnologia**, utilizando programação, análise de dados, automação e inteligência artificial para resolver problemas do mundo real.
+#### Tecnologias e ferramentas
 
-## 🛠️ Tecnologias e ferramentas
+- 📊 Power BI
+- 🐍 Python
+- 🗄️ SQL · 🐘 PostgreSQL
+- 📑 Excel avançado
+- 🤖 Automação
+- 🌐 Git e GitHub
 
-* 📊 Power BI
-* 🐍 Python
-* 🗄️ SQL
-* 🐘 PostgreSQL
-* 📑 Excel
-* 🤖 Automação
-* 🧠 Inteligência Artificial
-* 🌐 Git & GitHub
+#### Projetos em destaque
 
-## 📌 Projetos
+**FinanceOS**
+Sistema próprio de gestão financeira multiempresa (ERP), com módulos de contas a pagar/receber, orçamento e fluxo de caixa — nascido da experiência prática em controladoria.
+`FastAPI` `PostgreSQL` `React` · 🚧 em desenvolvimento
 
-### 💰 FinanceOS
+**Controle-Financeiro-Web**
+Conversão de uma planilha pessoal de controle financeiro em aplicação web.
 
-Projeto voltado para gestão financeira, análise de dados, automação e tomada de decisão.
+**Portfólio**
+Site pessoal reunindo experiência profissional e projetos: [jhonatasrodriss.github.io/Portfolio](https://jhonatasrodriss.github.io/Portfolio/)
 
-A ideia é transformar processos financeiros em uma solução integrada, explorando conceitos de **ERP, Business Intelligence, automação e Inteligência Artificial**.
+#### Atualmente estudando
 
-> 🚧 Projeto em desenvolvimento
+Python · SQL e bancos de dados · Power BI · automação · Gestão Financeira (tecnólogo)
 
-## 📚 Atualmente estudando
+#### Objetivo
 
-* Python
-* SQL e bancos de dados
-* Power BI e análise de dados
-* Automação de processos
-* Inteligência Artificial
-* Desenvolvimento de sistemas
-
-## 🎯 Meu objetivo
-
-Continuar evoluindo na interseção entre **Finanças, Dados e Tecnologia**, criando projetos cada vez mais completos e transformando conhecimento em soluções que possam ser utilizadas na prática.
-
----
-
-⭐ Este perfil acompanha minha evolução, meus estudos e os projetos que estou construindo ao longo dessa jornada.
+Construir uma trajetória sólida na interseção entre finanças e dados, transformando 6 anos de experiência prática em soluções técnicas que resolvem problemas reais.
